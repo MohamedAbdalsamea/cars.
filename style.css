@@ -1,0 +1,139 @@
+body{
+    background-color:rgb(28, 28, 28);
+    text-transform: capitalize;
+}
+.icons{
+    background-color: black;
+    border-radius: 50px;
+    margin-bottom: 70px;
+    
+    text-align: center;
+    
+}
+.icons img{
+    margin-left: 40px;
+    border-radius:40px ;
+    
+}
+.imgs{
+    margin-bottom: 70px; 
+    background-color: rgb(2, 2, 52);
+    /* padding:20px; */
+    border-radius: 50px;
+    text-align: center;
+    
+}
+.imgs img{
+    border-radius: 30px;
+    text-align: center;
+   margin-left: 40px; 
+   margin-bottom: 20px;
+}
+.icons a :hover{
+transform: scale(0.9);
+
+
+}
+.car{
+      color: goldenrod;
+      font-size: 50px;
+        font-family: "Anton SC", serif;
+        font-weight: 400;
+        font-style: normal;
+      
+      
+      
+}
+.mm{
+    background-color:black;
+   padding: 100px 0px;
+   color: goldenrod;
+}
+.filex{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(63, 66, 77);
+    border-radius: 10px;
+    position: fixed;
+    margin: 0px 0px 0px 0px ;
+    width: 99%;
+    height:10%;
+    color: goldenrod;
+    font-size: 40px;
+    font-weight: 300;
+        font-weight: 900;
+        font-style: normal;
+        margin: auto;
+
+  
+   
+   
+}
+
+.home{
+    color: goldenrod;
+    font-size: 30px;
+    font-weight: 200;
+    /* font-style: normal; */
+    list-style: none;
+}
+.home:hover{
+    transform: scale(0.9);
+}
+.body{
+    background-color: black;
+    text-transform: capitalize;
+
+}
+.information{
+    background-color: rgb(2, 2, 41);
+    
+    text-align: center;
+    
+    border-radius: 50px;
+    margin-bottom: 70px;
+    
+    
+
+}
+.nnnn{
+    color: rgb(211, 180, 4);
+    font-size: 30px;
+    font-weight: 30;
+}.imgsn{
+   
+    margin-bottom: 70px; 
+    background-color: rgb(1, 45, 1);
+    
+    border-radius: 50px;
+    text-align: center;
+}
+.imgsn img{
+    border-radius: 30px;
+    text-align: center;
+   margin-left: 40px; 
+   margin-bottom: 20px;
+   margin-top: 20px;
+}
+.filexn{
+    text-decoration:none ;
+    text-decoration-line: none;
+    color: rgb(160, 118, 12);
+}
+.filexn:hover{
+    color: rgb(50, 37, 3);
+transform: scale(0.9);
+}
+.video{
+
+    background-color: rgb(2, 2, 15);
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+
+}
+.videon{
+    background-color: rgb(2, 2, 15);
+    justify-content: center;
+    text-align: center;
+}
